@@ -8,11 +8,6 @@ include_in_header: false
 June 10 2020
 
 # Privacy Policy
-Privacy Policy  
-==============
-
-Last updated: June 10, 2020
-
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
 about Your privacy rights and how the law protects You.
@@ -21,11 +16,9 @@ We use Your Personal data to provide and improve the Service. By using the
 Service, You agree to the collection and use of information in accordance with
 this Privacy Policy.
 
-Interpretation and Definitions  
-==============================
+# Interpretation and Definitions  
 
-Interpretation  
---------------
+## Interpretation
 
 The words of which the initial letter is capitalized have meanings defined
 under the following conditions.
@@ -33,8 +26,7 @@ under the following conditions.
 The following definitions shall have the same meaning regardless of whether
 they appear in singular or in plural.
 
-Definitions  
------------
+## Definitions  
 
 For the purposes of this Privacy Policy:
 
@@ -91,14 +83,11 @@ For the purposes of this Privacy Policy:
     jointly with others determines the purposes and means of the processing of
     Personal Data.
 
-Collecting and Using Your Personal Data  
-=======================================
+# Collecting and Using Your Personal Data  
 
-Types of Data Collected  
------------------------
+## Types of Data Collected  
 
-Personal Data  
-~~~~~~~~~~~~~
+### Personal Data  
 
 While using Our Service, We may ask You to provide Us with certain personally
 identifiable information that can be used to contact or identify You.
@@ -106,8 +95,7 @@ Personally identifiable information may include, but is not limited to:
 
   * Usage Data
 
-Usage Data  
-~~~~~~~~~~
+### Usage Data  
 
 Usage Data is collected automatically when using the Service.
 
@@ -125,8 +113,7 @@ browser You use, unique device identifiers and other diagnostic data.
 We may also collect information that Your browser sends whenever You visit our
 Service or when You access the Service by or through a mobile device.
 
-Information Collected while Using the Application  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Information Collected while Using the Application  
 
 While using Our Application, in order to provide features of Our Application,
 We may collect, with your prior permission:
@@ -139,8 +126,7 @@ device.
 You can enable or disable access to this information at any time, through Your
 Device settings.
 
-Use of Your Personal Data  
--------------------------
+## Use of Your Personal Data  
 
 The Company may use Personal Data for the following purposes:
 
@@ -190,8 +176,7 @@ We may share your personal information in the following situations:
     other users will be able to view descriptions of Your activity,
     communicate with You and view Your profile.
 
-Retention of Your Personal Data  
--------------------------------
+## Retention of Your Personal Data  
 
 The Company will retain Your Personal Data only for as long as is necessary
 for the purposes set out in this Privacy Policy. We will retain and use Your
@@ -205,8 +190,7 @@ is used to strengthen the security or to improve the functionality of Our
 Service, or We are legally obligated to retain this data for longer time
 periods.
 
-Transfer of Your Personal Data  
-------------------------------
+## Transfer of Your Personal Data
 
 Your information, including Personal Data, is processed at the Company's
 operating offices and in any other places where the parties involved in the
@@ -224,25 +208,21 @@ of Your Personal Data will take place to an organization or a country unless
 there are adequate controls in place including the security of Your data and
 other personal information.
 
-Disclosure of Your Personal Data  
---------------------------------
+## Disclosure of Your Personal Data
 
-Business Transactions  
-~~~~~~~~~~~~~~~~~~~~~
+### Business Transactions  
 
 If the Company is involved in a merger, acquisition or asset sale, Your
 Personal Data may be transferred. We will provide notice before Your Personal
 Data is transferred and becomes subject to a different Privacy Policy.
 
-Law enforcement  
-~~~~~~~~~~~~~~~
+### Law enforcement  
 
 Under certain circumstances, the Company may be required to disclose Your
 Personal Data if required to do so by law or in response to valid requests by
 public authorities (e.g. a court or a government agency).
 
-Other legal requirements  
-~~~~~~~~~~~~~~~~~~~~~~~~
+### Other legal requirements  
 
 The Company may disclose Your Personal Data in the good faith belief that such
 action is necessary to:
@@ -253,23 +233,20 @@ action is necessary to:
   * Protect the personal safety of Users of the Service or the public
   * Protect against legal liability
 
-Security of Your Personal Data  
-------------------------------
+## Security of Your Personal Data  
 
 The security of Your Personal Data is important to Us, but remember that no
 method of transmission over the Internet, or method of electronic storage is
 100% secure. While We strive to use commercially acceptable means to protect
 Your Personal Data, We cannot guarantee its absolute security.
 
-Detailed Information on the Processing of Your Personal Data  
-============================================================
+# Detailed Information on the Processing of Your Personal Data  
 
 Service Providers have access to Your Personal Data only to perform their
 tasks on Our behalf and are obligated not to disclose or use it for any other
 purpose.
 
-Payments  
---------
+## Payments  
 
 We may provide paid products and/or services within the Service. In that case,
 we may use third-party services for payment processing (e.g. payment
@@ -288,11 +265,10 @@ the secure handling of payment information.
      Their Privacy Policy can be viewed at
      <https://www.apple.com/legal/privacy/en-ww/>
 
-GDPR Privacy  
-============
+# GDPR Privacy  
 
-Legal Basis for Processing Personal Data under GDPR  
----------------------------------------------------
+
+## Legal Basis for Processing Personal Data under GDPR  
 
 We may process Personal Data under the following conditions:
 
@@ -316,8 +292,7 @@ that applies to the processing, and in particular whether the provision of
 Personal Data is a statutory or contractual requirement, or a requirement
 necessary to enter into a contract.
 
-Your Rights under the GDPR  
---------------------------
+## Your Rights under the GDPR  
 
 The Company undertakes to respect the confidentiality of Your Personal Data
 and to guarantee You can exercise Your rights.
@@ -353,8 +328,7 @@ EU, to:
     to provide You with access to certain specific functionalities of the
     Service.
 
-Exercising of Your GDPR Data Protection Rights  
-----------------------------------------------
+## Exercising of Your GDPR Data Protection Rights  
 
 You may exercise Your rights of access, rectification, cancellation and
 opposition by contacting Us. Please note that we may ask You to verify Your
@@ -366,8 +340,7 @@ collection and use of Your Personal Data. For more information, if You are in
 the European Economic Area (EEA), please contact Your local data protection
 authority in the EEA.
 
-Children's Privacy  
-==================
+# Children's Privacy  
 
 Our Service does not address anyone under the age of 13. We do not knowingly
 collect personally identifiable information from anyone under the age of 13.
@@ -377,8 +350,7 @@ collected Personal Data from anyone under the age of 13 without verification
 of parental consent, We take steps to remove that information from Our
 servers.
 
-Your California Privacy Rights (California's Shine the Light law)  
-=================================================================
+# Your California Privacy Rights (California's Shine the Light law)  
 
 Under California Civil Code Section 1798 (California's Shine the Light law),
 California residents with an established business relationship with us can
@@ -389,8 +361,8 @@ If you'd like to request more information under the California Shine the Light
 law, You can contact Us using the contact information provided below.
 
 California Privacy Rights for Minor Users (California Business and Professions
-Code Section 22581)  
-==================================================================================================
+
+# Code Section 22581)  
 
 California Business and Professions Code section 22581 allow California
 residents under the age of 18 who are registered users of online sites,
@@ -405,8 +377,7 @@ Be aware that Your request does not guarantee complete or comprehensive
 removal of content or information posted online and that the law may not
 permit or require removal in certain circumstances.
 
-Links to Other Websites  
-=======================
+# Links to Other Websites  
 
 Our Service may contain links to other websites that are not operated by Us.
 If You click on a third party link, You will be directed to that third party's
@@ -416,8 +387,7 @@ visit.
 We have no control over and assume no responsibility for the content, privacy
 policies or practices of any third party sites or services.
 
-Changes to this Privacy Policy  
-==============================
+# Changes to this Privacy Policy  
 
 We may update our Privacy Policy from time to time. We will notify You of any
 changes by posting the new Privacy Policy on this page.
@@ -430,10 +400,8 @@ You are advised to review this Privacy Policy periodically for any changes.
 Changes to this Privacy Policy are effective when they are posted on this
 page.
 
-Contact Us  
-==========
+# Contact Us  
 
 If you have any questions about this Privacy Policy, You can contact us:
 
   * By email: dehlen@me.com
-
