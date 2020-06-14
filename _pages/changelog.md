@@ -9,7 +9,7 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0**
-Unread is a privacy focused read-it-later application.
+Reading Time is a privacy focused read-it-later application.
 There are no trackers, no analytics, no account, no login. All your articles are stored on your device. 
 If you happen to have an Apple account you can sync your saved articles via Apples iCloud.
 
