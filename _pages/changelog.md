@@ -8,6 +8,17 @@ include_in_header: true
 <br>
 
 ### `Current Release`
+# **Version 1.0.2**
+* Feature: The first time you open the app an onboarding is now presented
+* Feature: Smart tags to quickly find f.e short/long articles
+
+* Fixes a problem when importing shortlink urls from Pocket (like bit.ly)
+* Fixes a crash when saving images from an article to your photo library
+* Pending URLs are now imported when refreshing the Inbox
+
+<br>
+
+### `Bugfix Release`
 # **Version 1.0.1**
 * Fixes a problem when importing articles from Pocket
 * Fixes a problem when importing urls with an umlaut
