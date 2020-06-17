@@ -7,6 +7,15 @@ include_in_header: true
 # Changelog
 <br>
 
+### `Current Release`
+# **Version 1.0.1**
+* Fixes a problem when importing articles from Pocket
+* Fixes a problem when importing urls with an umlaut
+* Fixes a problem where the options menu was misplaced on iPad
+* Fixes a problem where cloud sync to multiple devices did not work reliable
+
+<br>
+
 ### `Initial Release`
 # **Version 1.0**
 Reading Time is a privacy focused read-it-later application.
