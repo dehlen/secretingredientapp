@@ -9,7 +9,7 @@ September 23 2020
 
 # Privacy Policy
 
-In the following, we would like to inform you about the purposes, type and scope of the processing of your personal data while using the Recipes App (hereinafter also referred to as the "App"). The legal basis for the level of data protection within the App is the Regulation (EU) 2016/679 (GDPR).
+In the following, we would like to inform you about the purposes, type and scope of the processing of your personal data while using the Secret Ingredient App (hereinafter also referred to as the "App"). The legal basis for the level of data protection within the App is the Regulation (EU) 2016/679 (GDPR).
 
 ## 1. Responsible body
 
@@ -31,9 +31,9 @@ When using the app, the data processing that takes place can be divided into thr
 *   In order to enable functions of the app (e.g. adding a photo to a recipe), the app needs access to various functions of your mobile device (e.g. saving in picture gallery).
 *   In the course of using the App, various information is collected. This is pseudonymized data, for example, to create usage statistics or error reports in order to improve our app.
 
-## 3. Installation of the Recipes app
+## 3. Installation of the Secret Ingredient app
 
-The Recipes app is available through the App Store operated by Apple Inc. The download may require prior registration with the App Store and installation of the App Store software. We have no control over the collection and processing of your personal information in connection with registering and providing downloads from the App Store. Apple Inc. as the operator of the App Store is solely responsible in this respect.
+The Secret Ingredient app is available through the App Store operated by Apple Inc. The download may require prior registration with the App Store and installation of the App Store software. We have no control over the collection and processing of your personal information in connection with registering and providing downloads from the App Store. Apple Inc. as the operator of the App Store is solely responsible in this respect.
 
 For more information on this data processing, please refer to the App Store Privacy Policy:
 
@@ -91,7 +91,7 @@ We base the data processing on our justified interest in improving the App. The 
 
 If you do not wish to receive statistics on the use of the App and wish to prevent the sending of usage statistics, you can deactivate these functions at any time in the App's settings using the slider (right of objection according to Art. 21 GDPR).
 
-In addition, usage statistics can be collected by the system via Apple Inc. This system setting is not specific to the Recipes App and can be deactivated in the device settings.
+In addition, usage statistics can be collected by the system via Apple Inc. This system setting is not specific to the Secret Ingredient App and can be deactivated in the device settings.
 
 #### Error reports
 
@@ -99,7 +99,7 @@ If a crash occurs in the app, anonymous crash reports (function tracing, operati
 
 If you do not want anonymous crash reports to be sent to us via the Microsoft AppCenter SDK, you can deactivate these functions at any time using the slider in the app's settings (right of objection according to Art. 21 GDPR).
 
-In addition, system-side error reports can be collected via Apple Inc. This system setting is not specific to the Recipes App and can be deactivated in the device settings.
+In addition, system-side error reports can be collected via Apple Inc. This system setting is not specific to the Secret Ingredient App and can be deactivated in the device settings.
 
 ## 5. Recipient of your data
 

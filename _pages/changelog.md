@@ -9,7 +9,7 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0**
-Recipes is a beautiful and simple recipe manager where you can store all of you recipes.
+Secret Ingredient is a beautiful and simple recipe manager where you can store all of you recipes.
 Recipes can be entered either manually or by importing them from any given website.
 No longer do you need to search for recipes in your screenshots, cookbooks, bookmarks etc.   
 The app also automatically syncs your entries to all of your devices. Whether you want to use your iPad or your iPhone when cooking, the information is available everywhere. 
