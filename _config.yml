@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Beautiful cooking experience
     description                           : A special cooking mode helps you get the recipe on the plate.
-    fontawesome_icon_name                 : hat-chef
+    fontawesome_icon_name                 : star
 
   - title                                 : iCloud Sync
     description                           : Sync all your recipes automatically with iCloud.
