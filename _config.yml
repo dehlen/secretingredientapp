@@ -6,21 +6,21 @@ ios_app_id                                : 1518489427                          
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://davidehlen.dev/reading-time-press-kit.zip                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  :                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Read-it-later app for iOS and iPadOS.
+app_description                           : Recipe manager for iOS and iPadOS.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : David Ehlen                                
-your_link                                 : https://davidehlen.dev                     
+your_name                                 : David von Knobelsdorff                                
+your_link                                 :                      
 your_city                                 : Karlsruhe                                
 email_address                             : dehlen@me.com
 facebook_username                         :                                           
@@ -34,25 +34,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Save articles
-    description                           : Save articles from all around the web. There is no step 2.
-    fontawesome_icon_name                 : bookmark
+  - title                                 : Save recipes
+    description                           : Save recipes from all around the web. There is no step 2.
+    fontawesome_icon_name                 : download
     
-  - title                                 : Tags
-    description                           : Organize all your saved articles with tags to always find what you are looking for.
+  - title                                 : Categories
+    description                           : Organize all your saved recipes with categories to always find what you are looking for.
     fontawesome_icon_name                 : tags
 
-  - title                                 : Beautiful reading experience
-    description                           : All your articles will be saved for an offline, ad-free reading experience.
-    fontawesome_icon_name                 : eye
+  - title                                 : Beautiful cooking experience
+    description                           : A special cooking mode helps you get the recipe on the plate.
+    fontawesome_icon_name                 : hat-chef
 
-  - title                                 : Import & Export
-    description                           : Sync all your articles from Instapaper or Pocket.
+  - title                                 : iCloud Sync
+    description                           : Sync all your recipes automatically with iCloud.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Dark Mode
-    description                           : Of course the app comes with dark mode support baked in
-    fontawesome_icon_name                 : adjust
+  - title                                 : Timers
+    description                           : Use timers to never let sth. scorch ever again
+    fontawesome_icon_name                 : clock
   
   - title                                 : And more...
     description                           : Just try for yourself. The app is free as in "free". No account required.

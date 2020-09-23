@@ -7,35 +7,25 @@ include_in_header: true
 # Changelog
 <br>
 
-### `Current Release`
-# **Version 1.0.2**
-* Feature: The first time you open the app an onboarding is now presented
-* Feature: Smart tags to quickly find f.e short/long articles
-
-* Fixes a problem when importing shortlink urls from Pocket (like bit.ly)
-* Fixes a crash when saving images from an article to your photo library
-* Pending URLs are now imported when refreshing the Inbox
-
-<br>
-
-### `Bugfix Release`
-# **Version 1.0.1**
-* Fixes a problem when importing articles from Pocket
-* Fixes a problem when importing urls with an umlaut
-* Fixes a problem where the options menu was misplaced on iPad
-* Fixes a problem where cloud sync to multiple devices did not work reliable
-
-<br>
-
 ### `Initial Release`
 # **Version 1.0**
-Reading Time is a privacy focused read-it-later application.
-There are no trackers, no analytics, no account, no login. All your articles are stored on your device. 
-If you happen to have an Apple account you can sync your saved articles via Apples iCloud.
+Recipes is a beautiful and simple recipe manager where you can store all of you recipes.
+Recipes can be entered either manually or by importing them from any given website.
+No longer do you need to search for recipes in your screenshots, cookbooks, bookmarks etc.   
+The app also automatically syncs your entries to all of your devices. Whether you want to use your iPad or your iPhone when cooking, the information is available everywhere. 
 
-Articles can be stored from everywhere on your iPhone or your iPad and are saved on device.
-This way we can provide you with a beautiful reading experience which also works when you are offline.
+Features:
+* iCloud Sync of all your recipes
+* Search your recipes
+* Organize with categories
+* Scale ingredients, whether you cook just for yourself or a whole sports team
+* Imports recipes easily from any given website to save you the extra keystrokes
+* Special "Cooking Mode" to show you only the most important information when cooking
+* Support for timers, so you rice won't be scorched ever again
+* Voice Over and dynamic text sizes
+* A beautiful, simple user interface where your recipe images really shine
+* A whole lot more for you to discover
 
-How about reading some of the articles you found online while having a coffee break?
+Download the app now, to bring back order into your recipe chaos.
 
 <br>
