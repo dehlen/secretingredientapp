@@ -21,6 +21,7 @@ include_in_header: true
 * Fixed a bug where the recipe image was shown in the wrong orientation when choosing a landscape photo from the library. If you already added recipes with the wrong orientation just update the recipe by selecting the same image again. The orientation should be correct afterwards.
 * Fixed a bug where you could not reorder steps and ingredients
 * Fixed a bug where notes where abbreviated when looking at the recipe detail page
+* Updated layout to use the new menus instead of the action sheets used previously
 
 ### `Feedback Update`
 # **Version 1.0.1**
