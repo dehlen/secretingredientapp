@@ -19,6 +19,7 @@ include_in_header: true
 * Fixed a bug where the application would crash when dismissing the settings on an iPad 
 * Added support for more recipe webpage when importing from the web
 * Fixed a bug where the recipe image was shown in the wrong orientation when choosing a landscape photo from the library. If you already added recipes with the wrong orientation just update the recipe by selecting the same image again. The orientation should be correct afterwards.
+* Fixed a bug where you could not reorder steps and ingredients
 
 ### `Feedback Update`
 # **Version 1.0.1**
