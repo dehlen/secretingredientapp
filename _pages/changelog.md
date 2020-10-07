@@ -18,6 +18,7 @@ include_in_header: true
 * You can now drag the stars when selecting a rating for a recipe
 * Fixed a bug where the application would crash when dismissing the settings on an iPad 
 * Added support for more recipe webpage when importing from the web
+* Fixed a bug where the recipe image was shown in the wrong orientation when choosing a landscape photo from the library. If you already added recipes with the wrong orientation just update the recipe by selecting the same image again. The orientation should be correct afterwards.
 
 ### `Feedback Update`
 # **Version 1.0.1**
