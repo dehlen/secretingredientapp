@@ -7,6 +7,10 @@ include_in_header: true
 # Changelog
 <br>
 
+### `Bugfixes`
+# **Version 1.1.1**
+* Fixed a bug where saving from safari did not work
+
 ### `Feature Update`
 # **Version 1.1.0**
 * Added a TipJar to support further development of Secret Ingredient
