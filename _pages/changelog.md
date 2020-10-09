@@ -8,6 +8,10 @@ include_in_header: true
 <br>
 
 ### `Bugfixes`
+# **Version 1.1.2**
+* Removed an accidentally unfinished filter feature. This will be added in one of the next releases.
+
+### `Bugfixes`
 # **Version 1.1.1**
 * Fixed a bug where saving from safari did not work
 
