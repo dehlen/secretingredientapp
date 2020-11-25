@@ -7,6 +7,10 @@ include_in_header: true
 # Changelog
 <br>
 
+### `Layout improvements`
+# **Version 1.1.3**
+* Layout for recipe images in the detail view was improved 
+
 ### `Bugfixes`
 # **Version 1.1.2**
 * Removed an accidentally unfinished filter feature. This will be added in one of the next releases.
