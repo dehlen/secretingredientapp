@@ -14,8 +14,13 @@ include_in_header: true
 * Make all buttons in the tip jar have the same width
 * Deselect recipe row when navigating back from a single recipe to the list
 * Added option to edit recipe instructions in a multiline textview
-* Added support for various recipe websites (f.e küchengötter.de)
-
+* Added support for various recipe websites
+    * küchengötter.de
+    * weber.com
+    * ddr-rezepte.net
+    * sixx.de
+    * and more...
+    
 ### `Layout improvements`
 # **Version 1.1.3**
 * Layout for recipe images in the detail view was improved 
