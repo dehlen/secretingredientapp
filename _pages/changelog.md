@@ -7,6 +7,15 @@ include_in_header: true
 # Changelog
 <br>
 
+### `Edit recipe instruction in mutltiline textfield and more... 🎉`
+# **Version 1.2.0**
+* "No description" label is no longer shown when description is missing. Instead the label will be hidden
+* Improved cooking mode when sliding to previous/next page
+* Make all buttons in the tip jar have the same width
+* Deselect recipe row when navigating back from a single recipe to the list
+* Added option to edit recipe instructions in a multiline textview
+* Added support for various recipe websites (f.e küchengötter.de)
+
 ### `Layout improvements`
 # **Version 1.1.3**
 * Layout for recipe images in the detail view was improved 
