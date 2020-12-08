@@ -20,6 +20,8 @@ include_in_header: true
     * weber.com
     * ddr-rezepte.net
     * sixx.de
+    * gatherforbread.com
+    * essen-und-trinken.de
     * and more...
     
 ### `Layout improvements`
