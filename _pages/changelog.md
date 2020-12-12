@@ -7,6 +7,11 @@ include_in_header: true
 # Changelog
 <br>
 
+### `Hotfix`
+# **Version 1.2.1**
+* Fixed a crash which could happen when selecting a list row
+
+
 ### `Edit recipe instruction in mutltiline textfield and more... 🎉`
 # **Version 1.2.0**
 * "No description" label is no longer shown when description is missing. Instead the label will be hidden
