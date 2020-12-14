@@ -14,8 +14,8 @@ include_in_header: true
 * Time intervals (like: Cook for 5 minutes) in cooking instructions are now recognized and suggested as a timer when in cooking mode
 * URLs are now prefilled when coming back from the background and the option "Recipe Detection" is activated
 * Added a new way to import recipes when the automatic import fails. Recipes can now be added directly from the website to Secret Ingredient. A new faq section describing this feature was also added.
-* Added a new "Start cooking" button to the recipe detail page 
-
+* Added a new "Start cooking" button to the recipe detail page
+* Updated the icons in settings
 
 ### `Hotfix`
 # **Version 1.2.1**
