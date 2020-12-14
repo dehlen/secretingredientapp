@@ -7,6 +7,16 @@ include_in_header: true
 # Changelog
 <br>
 
+### `🙌 Features, features everywhere`
+# **Version 1.3.0**
+* New design for recipe detail page. A parallax effect was added, headlines now use serif font.
+* Fixed a bug where a timer could be shown as 0h 0m 0s when stopped
+* Time intervals (like: Cook for 5 minutes) in cooking instructions are now recognized and suggested as a timer when in cooking mode
+* URLs are now prefilled when coming back from the background and the option "Recipe Detection" is activated
+* Added a new way to import recipes when the automatic import fails. Recipes can now be added directly from the website to Secret Ingredient. A new faq section describing this feature was also added.
+* Added a new "Start cooking" button to the recipe detail page 
+
+
 ### `Hotfix`
 # **Version 1.2.1**
 * Fixed a crash which could happen when selecting a list row
