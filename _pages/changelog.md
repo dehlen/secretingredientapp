@@ -17,6 +17,7 @@ include_in_header: true
 * Added a new "Start cooking" button to the recipe detail page
 * Updated the icons in settings
 * Added filter functionality to the recipe list. You can now filter for recipes by preparation time, cooking time, rating and categories
+* When scaling recipe ingredients decimals with , or . as decimal seperator should be handled correctly now
 
 ### `Hotfix`
 # **Version 1.2.1**
