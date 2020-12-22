@@ -16,6 +16,7 @@ include_in_header: true
 * Added a new way to import recipes when the automatic import fails. Recipes can now be added directly from the website to Secret Ingredient. A new faq section describing this feature was also added.
 * Added a new "Start cooking" button to the recipe detail page
 * Updated the icons in settings
+* Added filter functionality to the recipe list. You can now filter for recipes by preparation time, cooking time, rating and categories
 
 ### `Hotfix`
 # **Version 1.2.1**
