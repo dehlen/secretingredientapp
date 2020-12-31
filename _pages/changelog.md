@@ -20,6 +20,7 @@ include_in_header: true
 * When scaling recipe ingredients decimals with , or . as decimal seperator should be handled correctly now
 * Uses a whole new importer to support more recipe websites. It is now possible to support recipe websites which do not use the standard recipe format. If one of your favorite websites is not yet supported shoot me a message and I'll be able to support it now.
 * Fixed a bug where a timer was not stopped if removed while running
+* Cancelling a tip purchase no longer shows an error
 
 ### `Hotfix`
 # **Version 1.2.1**
